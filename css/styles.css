@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1.7;
+  margin: 0;
+  color: #333333;
+  }
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #e0ffff;
+}
+
+h1 {
+  font-family: "Corinthia",  cursive;
+  font-size: 5rem;
+  margin-bottom: 0;
+  color: #00cccc;
+  font-weight:bold;
+}
+h3{
+  font-family:verdana, serif;
+  color: #00cccc;
+  font-weight: normal;
+  font-size:1.4rem;
+}
+h2{
+  color: #00cccc;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 10px auto;
+}
+.img-1 {
+  right:25%;
+  position: absolute;
+  width:10%;
+  top:20%;
+}
+
+.img-2 {
+  left: 25%;
+  position: absolute;
+  top: 45%;
+  width: 10%;
+}
+.img-3{
+  width:45%;
+}
+.profile{
+  padding:70px 0 50px;
+}
+.pro{
+  width: 40%;
+  margin: auto;
+}
+.profile-pix{
+  width:20%;
+}
+.mid-pix{
+  float:left;
+  width:30%;
+  margin-right: 20px;
+}
+.mid-pix2{
+  float:right;
+  width:30%;
+  margin-left: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px;
+  text-align: left;
+}
+.skills{
+  padding: 20px 0 30px;
+}
+.contact-me{
+  padding:20px 0 80px;
+}
+.con{
+  width:40%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #00cccc;
+}
+.footer-link{
+  color:#e0ffff;
+  margin: 20px;
+}
+.bottom-container{
+  color:white;
+  padding: 40px 0 40px;
+}
+.btn {
+  background: #00cccd;
+  background-image: -webkit-linear-gradient(top, #00cccc, #00cccd);
+  background-image: -moz-linear-gradient(top, #00cccc, #00cccd);
+  background-image: -ms-linear-gradient(top, #00cccc, #00cccd);
+  background-image: -o-linear-gradient(top, #00cccc, #00cccd);
+  background-image: linear-gradient(to bottom, #00cccc, #00cccd);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family:inherit;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  display: inline-block;
+  margin: 40px auto 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00333;
+  background-image: -webkit-linear-gradient(top, #00333, #00aaa );
+  background-image: -moz-linear-gradient(top, #00aaa , #00aaa );
+  background-image: -ms-linear-gradient(top, #00aaa , #00aaa );
+  background-image: -o-linear-gradient(top, #00aaa , #00aaa );
+  background-image: linear-gradient(to bottom, #00333 , #00333);
+  text-decoration: none;
+}
+.copy{
+  margin-top:30px;
+  font-size: 1rem;
+}
+hr{
+  border-style: dotted;
+  border-bottom: none;
+  border-width:4px;
+  width: 10%;
+  color:#00cccc ;
+  margin: 50px auto;
+}
